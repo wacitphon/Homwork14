@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.search-bar>input, .search-bar>label {
+  display: block;
+  padding: 6px;
+}
+
+.filter-table {
+  margin: 150px;
+  margin-left: 530px;
+}
+
+.product-table {
+  width: 300px;
+  text-align: left;
+  border-collapse: collapse;
+}
+
+.product-table th, .product-table td {
+  border : 1px solid silver;
+  padding: 2px 4px;
+}
+
+.category-row {
+  text-align: center;
+}
+
+/* Class utility */
+.text-red {
+  color: red;
+}
