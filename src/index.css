@@ -4,7 +4,7 @@
     padding: 0;
   }
 body{
-  background-image:url('todo02.jpg');
+  background-image:url('../todo02.jpg');
   background-size: cover;
   height: 100vh;
   display: flex;
@@ -33,7 +33,7 @@ body{
   }
   
   .dash-board {
-  background-image:url('gif01.gif');
+  background-image:url('../gif01.gif');
   background-size: cover;
   border-radius: 10px;
   height: 100px;
